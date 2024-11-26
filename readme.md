@@ -1,5 +1,9 @@
 # GoLang: Functions Practice
 
+## Repository
+
+https://github.com/sankarshandamle/assignment1/tree/main
+
 ## Overview
 
 This code involves implementing two functions in Go to practice working with slices, sorting, maps, and error handling. You'll also test your implementations using a variety of scenarios.
